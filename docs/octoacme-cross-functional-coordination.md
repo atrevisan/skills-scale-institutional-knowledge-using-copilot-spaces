@@ -201,7 +201,7 @@ Known Issues / Context: [Important context for Team B]
 ## Avoiding Common Cross-Functional Pitfalls
 
 | Pitfall | Impact | Prevention |
-|---------|--------|-----------|
+|---------|--------|----------|
 | Specialist involved too late (post-development) | Rework, delays, quality issues | Involve specialists in planning; use the Specialist Role Involvement Checklist |
 | Unclear ownership between roles | Slow decisions, blame-shifting | Document clear decision rights and DRI (Directly Responsible Individual) for each decision |
 | Async communication gaps | Missed context, duplicate work | Use weekly sync as source of truth; summarize async decisions in writing |
